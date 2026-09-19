@@ -1,5 +1,6 @@
 {
-    "message": "Updated JSON data from main branch",
+    "message": "Updated JSON data from new branch",
     "student": "Shreya Patel",
-    "course": "B.Tech CSE"
+    "course": "B.Tech CSE",
+    "branch": "Codershreya2_new"
 }
